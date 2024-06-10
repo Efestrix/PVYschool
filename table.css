@@ -1,0 +1,23 @@
+table 
+{
+    border:darkgoldenrod dotted 2px;
+    border-collapse: collapse;
+}
+
+td, th 
+{
+    border:darkred solid 1px;
+    text-align: center;
+    padding: 5px;
+}
+
+h1 
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    color:darkturquoise;
+    border: blueviolet solid 2px;
+    background-color: chartreuse;
+    text-align: center;
+
+}
